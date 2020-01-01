@@ -1,0 +1,17 @@
+{
+    "name": "seerphp/okhttp",
+    "description": "php http curl",
+    "type": "http-toool",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "guozhiheng",
+        "email": "master@setdb.cn"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "seerphp\\": "src"
+        }
+    }
+}
